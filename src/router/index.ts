@@ -12,7 +12,7 @@ export const routes = [
   {
     path: '/nurses',
     name: 'nurses',
-    label: 'Медсестры',
+    label: 'Интерны',
     component: () => import('../views/NursesView.vue'),
   },
 ]

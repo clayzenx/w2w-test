@@ -1,0 +1,7 @@
+[
+  { "id": 0, "name": "Иванов И.И.", "department": "кардиологическое", "grade": "doc" ,"isChief": true },
+  { "id": 1, "name": "Петров П.П.", "department": "хирургическое", "grade": "nurse" },
+  { "id": 2, "name": "Валерьянова П.Г.", "department": "кардиологическое", "grade": "nurse" },
+  { "id": 3, "name": "Мальков Б.Д.", "department": "хирургическое", "grade": "doc" },
+  { "id": 4, "name": "Селюк Г.Б.", "department": "хирургическое", "grade": "doc", "isChief": true}
+]
